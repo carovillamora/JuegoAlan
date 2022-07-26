@@ -17,26 +17,26 @@ function preload()
     gameOverImg = loadImage("./Assets/Game Over.png");
     wintextImg = loadImage("./Assets/wintext.png");
     attackImg = loadImage("./Assets/attack.png");
-    life1Img = loadImage("./Assets/life/1.png");
-    life2Img = loadImage("./Assets/life/2.png");
-    life3Img = loadImage("./Assets/life/3.png");
-    life4Img = loadImage("./Assets/life/4.png");
-    life5Img = loadImage("./Assets/life/5.png");
-    life6Img = loadImage("./Assets/life/6.png");
-    life7Img = loadImage("./Assets/life/7.png");
-    life8Img = loadImage("./Assets/life/8.png");
-    life9Img = loadImage("./Assets/life/9.png");
-    life10Img = loadImage("./Assets/life/10.png");
-    life11Img = loadImage("./Assets/life/11.png");
-    life12Img = loadImage("./Assets/life/12.png");
-    life13Img = loadImage("./Assets/life/13.png");
-    life14Img = loadImage("./Assets/life/14.png");
-    life15Img = loadImage("./Assets/life/15.png");
-    life16Img = loadImage("./Assets/life/16.png");
-    life17Img = loadImage("./Assets/life/17.png");
-    life18Img = loadImage("./Assets/life/18.png");
-    life19Img = loadImage("./Assets/life/19.png");
-    life20Img = loadImage("./Assets/life/20.png");
+    life1Img = loadImage("./Assets/Life/1.png");
+    life2Img = loadImage("./Assets/Life/2.png");
+    life3Img = loadImage("./Assets/Life/3.png");
+    life4Img = loadImage("./Assets/Life/4.png");
+    life5Img = loadImage("./Assets/Life/5.png");
+    life6Img = loadImage("./Assets/Life/6.png");
+    life7Img = loadImage("./Assets/Life/7.png");
+    life8Img = loadImage("./Assets/Life/8.png");
+    life9Img = loadImage("./Assets/Life/9.png");
+    life10Img = loadImage("./Assets/Life/10.png");
+    life11Img = loadImage("./Assets/Life/11.png");
+    life12Img = loadImage("./Assets/Life/12.png");
+    life13Img = loadImage("./Assets/Life/13.png");
+    life14Img = loadImage("./Assets/Life/14.png");
+    life15Img = loadImage("./Assets/Life/15.png");
+    life16Img = loadImage("./Assets/Life/16.png");
+    life17Img = loadImage("./Assets/Life/17.png");
+    life18Img = loadImage("./Assets/Life/18.png");
+    life19Img = loadImage("./Assets/Life/19.png");
+    life20Img = loadImage("./Assets/Life/20.png");
 }
 
 function setup() 
